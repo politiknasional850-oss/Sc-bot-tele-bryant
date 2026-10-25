@@ -1,0 +1,5 @@
+node_modules/
+.env
+wa_auth_session/
+npm-cache/
+*.log
